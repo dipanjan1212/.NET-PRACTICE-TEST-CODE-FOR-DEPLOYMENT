@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\.NET-PRACTICE-TEST-CODE-FOR-DEPLOYMENT-1.props" />
+</Project>
